@@ -89,11 +89,42 @@ Baralho contendo os personagens, com:
 
 ---
 
-## 📷 Prévia Visual
+## Prévia Visual
 
 ![Prévia do jogo](./assets/printscreen/print.png) <!-- Adicione uma imagem real do jogo aqui, se desejar -->
 
 ---
+
+## Como Executar em Qualquer Máquina
+
+Siga os passos abaixo para executar o jogo localmente:
+
+###  Pré-requisitos
+- Navegador moderno instalado (Google Chrome, Firefox, Edge, etc.)
+- Editor de código (opcional, como VS Code ou Sublime Text)
+
+###  Passos
+
+1. **Baixe o projeto completo** ou clone o repositório, como preferir:
+
+```
+git clone https://github.com/willnogueyra/Desafio-Cartas-Super-Trunfo
+```
+
+2. **Navegue até a pasta do projeto**:
+
+```
+cd Desafio-Cartas-Super-Trunfo
+```
+
+3. **Abra o arquivo `index.html` com um navegador**:
+
+- Clique duas vezes no arquivo `index.html`, ou
+- Clique com o botão direito e selecione "Abrir com" → Seu navegador preferido.
+
+**Pronto!** O jogo será executado diretamente no navegador, sem necessidade de servidor ou instalação adicional.
+
+
 
 ## Desenvolvido para fins educacionais
 Este projeto foi desenvolvido como parte de uma atividade acadêmica para a disciplina de Desenvolvimento Web, com o objetivo de aplicar conhecimentos de HTML, CSS e JavaScript em um projeto interativo.
